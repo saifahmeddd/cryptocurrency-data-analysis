@@ -24,7 +24,7 @@ Cryptocurrency markets are known for their volatility, making them intriguing su
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/saifahmeddd/cryptocurrency-data-analysis.git
    cd your-repository
 Install the required packages:
 
