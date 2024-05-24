@@ -1,4 +1,4 @@
-readme_content = """
+
 # Cryptocurrency Data Analysis and Visualization
 
 This project conducts analysis and visualization of historical price data for Bitcoin (BTC), Ethereum (ETH), and XRP using Python. The data is fetched from CoinAPI using an API key and processed to extract valuable insights into the behavior of these digital assets.
@@ -40,4 +40,4 @@ matplotlib
 requests
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-"""
+
