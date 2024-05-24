@@ -20,8 +20,6 @@ Cryptocurrency markets are known for their volatility, making them intriguing su
 2. **Running the Code**: Execute the `main.ipynb` Jupyter Notebook to run the analysis and visualization.
 3. **Interpreting Results**: Review the generated visualizations and analysis output to gain insights into the historical performance of Bitcoin, Ethereum, and XRP.
 
-# Cryptocurrency Data Analysis
-
 ## Installation
 
 1. Clone the repository:
