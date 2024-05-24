@@ -35,12 +35,6 @@ Cryptocurrency markets are known for their volatility, making them intriguing su
 
 3. Run the Jupyter Notebook:
 
-jupyter notebook main.ipynb
-Dependencies
-pandas
-numpy
-matplotlib
-requests
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
