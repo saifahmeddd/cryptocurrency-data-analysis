@@ -20,17 +20,20 @@ Cryptocurrency markets are known for their volatility, making them intriguing su
 2. **Running the Code**: Execute the `main.ipynb` Jupyter Notebook to run the analysis and visualization.
 3. **Interpreting Results**: Review the generated visualizations and analysis output to gain insights into the historical performance of Bitcoin, Ethereum, and XRP.
 
+# Cryptocurrency Data Analysis
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/saifahmeddd/cryptocurrency-data-analysis.git
-   cd your-repository
-Install the required packages:
+   cd cryptocurrency-data-analysis
 
-pip install pandas numpy matplotlib requests
-Run the Jupyter Notebook:
+2. Install the required packages:
 
+       pip install pandas numpy matplotlib requests
+
+3. Run the Jupyter Notebook:
 
 jupyter notebook main.ipynb
 Dependencies
